@@ -57,7 +57,7 @@ Welcome to the **Data Analysis Course** repository! This repository contains dat
 
 # 2. Introduction to Data Analysis:
 
-* ###  📙 Lecture: [Download it as PDF](./Introduction to Data Analysis/Introduction to Data Analysis.pdf)
+* ### 📙 Lecture: [Download it as PDF](./Introduction%20to%20Data%20Analysis/Introduction%20to%20Data%20Analysis.pdf)
 
 
 
