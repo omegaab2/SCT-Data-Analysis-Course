@@ -13,14 +13,14 @@ Welcome to the **Data Analysis Course** repository! This repository contains dat
 
 ## 📥 Excel Files Used In Sessions
 
-| File Name                     | Description                                                                                     | Link                                             |
-|-------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| `Part 1.xlsx`                 | Entering Data, Copy-Cut-Paste, Tables - Format, Format, Conditional Formatting, Data Validation | [Download](./Excel/Used in Sessions/Part 1.xlsx) |
-| `Part 2.xlsx`                 | Filter_Sort_Slic, Sub_Total, Manipulating, Print                                                | [Download](./Excel/Used in Sessions/Part 2.xlsx) |
-| `Part 3.xlsx`                 | Formulas                                                                                        | [Download](./Excel/Used in Sessions/Part 3.xlsx) |
-| `Part 4.xlsx`                 | Charts, Pivot Table, Comments - Protection, Macro                                               | [Download](./Excel/Used in Sessions/Part 3.xlsx) |
-| `Work Practice - Part 1.xlsx` | For practice                                                                                    | [Download](./Excel/Used in Sessions/Part 3.xlsx) |
-| `Work Practice - Part 2.xlsx` | For practice                                                                                    | [Download](./Excel/Used in Sessions/Part 3.xlsx) |
+| File Name                     | Description                                                                                     | Link                                                               |
+|-------------------------------|-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| `Part 1.xlsx`                 | Entering Data, Copy-Cut-Paste, Tables - Format, Format, Conditional Formatting, Data Validation | [Download](./Excel/Used%20in%20Sessions/Part_1.xlsx)               |
+| `Part 2.xlsx`                 | Filter_Sort_Slic, Sub_Total, Manipulating, Print                                                | [Download](./Excel/Used%20in%20Sessions/Part_2.xlsx)               |
+| `Part 3.xlsx`                 | Formulas                                                                                        | [Download](./Excel/Used%20in%20Sessions/Part_3.xlsx)               |
+| `Part 4.xlsx`                 | Charts, Pivot Table, Comments - Protection, Macro                                               | [Download](./Excel/Used%20in%20Sessions/Part_4.xlsx)               |
+| `Work Practice - Part 1.xlsx` | For practice                                                                                    | [Download](./Excel/Used%20in%20Sessions/Work_Practice_Part_1.xlsx) |
+| `Work Practice - Part 2.xlsx` | For practice                                                                                    | [Download](./Excel/Used%20in%20Sessions/Work_Practice_Part_2.xlsx) |
 
 ---
 
